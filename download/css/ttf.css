@@ -1,0 +1,28 @@
+@font-face {
+	font-family:harmony-r;
+	src:url("https://b23game.github.io/ttf/Harmony/Regular.ttf");
+}
+
+p{
+font-family:harmony-r;
+}
+
+a{
+	font-family:harmony-r;
+}
+
+h1{
+	font-family:harmony-r;
+}
+
+button{
+	font-family:harmony-r;
+}
+
+h2{
+	font-family:harmony-r;
+}
+
+h3{
+	font-family:harmony-r;
+}

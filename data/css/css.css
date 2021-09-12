@@ -1,0 +1,29 @@
+	#one {
+		height: 30vh;
+		width: 40ch;
+		left: 0px;
+		top: 0px;
+	}
+	#one,
+	#two {
+		background: rgb(236, 199, 173);
+		position: relative;
+		border: 1px solid #ebd89d;
+		line-height: 5px;
+		/*字体间距*/
+		/* background: #eff7ff*/
+		/*display: inline;*/
+	}
+    
+	#two {
+		height: 30vh;
+		width: 40ch;
+		left: 90vh;
+		top: -175px;
+	}
+    
+	#body {
+		margin: 0;
+		padding: 0;
+		/*overflow: hidden;*/
+	}
