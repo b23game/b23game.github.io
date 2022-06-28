@@ -1,4 +1,8 @@
 # b23game
-不说废话了，[鼠标左键点击访问](https://b23.games/)
+[访问B23.Games](https://b23.games/)
 <br/>
-访问站长[bilibili](https://space.bilibili.com/398196769/)个人空间主页
+[访问站长个人主页](https://xiaozhao233.top/)
+<br/>
+[访问站长GitHub主页](https://github.com/XZCN233/)
+<br/>
+[访问站长bilibili主页](https://space.bilibili.com/398196769/)
