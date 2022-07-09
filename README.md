@@ -1,4 +1,4 @@
-# B23Games游戏站<br/>源站迁至香港服务器GitHub源项目库自2022/07/09起停止维护
+# B23Games游戏站<br/>源站迁至香港服务器<br/>GitHub源项目库自2022/07/09起停止维护
 [访问B23.Games](https://b23.games/)
 <br/>
 [访问站长个人主页](https://xiaozhao233.top/)
